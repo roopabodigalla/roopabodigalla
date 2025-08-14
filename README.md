@@ -28,9 +28,8 @@
 
 ---
 
-🎓 Student Enrollment System
-
-A Django-based web application to manage student registrations and course enrollments.
+🎓 [Student Enrollment System]https://github.com/roopabodigalla/Ecommerce
+> A Django-based web application to manage student registrations and course enrollments.
 
 User authentication (login/register/logout)
 Student profile creation and management (CRUD operations)
