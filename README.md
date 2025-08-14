@@ -45,7 +45,7 @@ Simple and clean UI using Django templates
 
 ## 📫 Connect with Me
 
-- 📧 Email: roopabodigalla@gmail.com
+- 📧 Email: roopab1819@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/roopa-bodigalla-044771232/)
 
 ---
