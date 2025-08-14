@@ -10,7 +10,7 @@
 
 - **Languages**: Python, JavaScript, HTML, CSS  
 - **Frameworks**: Django, Django REST Framework  
-- **Databases**: MySQL, SQLite  
+- **Databases**: MySQL, SQLite , SQL 
 - **Tools**: Git, GitHub, VS Code  
 
 ---
@@ -27,6 +27,16 @@
 - Responsive UI with Bootstrap
 
 ---
+
+🎓 Student Enrollment System
+
+A Django-based web application to manage student registrations and course enrollments.
+
+User authentication (login/register/logout)
+Student profile creation and management (CRUD operations)
+Course listing and enrollment functionality
+Search and filter students by name or course
+Simple and clean UI using Django templates
 
 ## 📈 GitHub Stats
 
