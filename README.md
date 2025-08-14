@@ -10,32 +10,34 @@
 
 - **Languages**: Python, JavaScript, HTML, CSS  
 - **Frameworks**: Django, Django REST Framework  
-- **Databases**: MySQL, SQLite , SQL 
+- **Databases**: MySQL, SQLite, SQL  
 - **Tools**: Git, GitHub, VS Code  
 
 ---
 
 ## 📂 Projects
 
-### 🌟 [Ecommerce Django Project](https://github.com/roopabodigalla/ecommerce-django-project)
-> A feature-rich ecommerce platform built with Django.
+### 🌟 [Ecommerce Django Project](https://github.com/roopabodigalla/ecommerce-django-project)  
+> A feature-rich ecommerce platform built with Django, supporting complete product management and shopping cart functionality.
 
-- User authentication (login/register/logout)
-- Product management (CRUD operations)
-- Shopping cart using Django sessions
-- Order summary PDF generation
-- Responsive UI with Bootstrap
+- **User Authentication** – Login, register, and logout functionality  
+- **Product Management** – Add, edit, delete, and view products  
+- **Shopping Cart** – Store cart items using Django sessions  
+- **Order Summary** – Generate downloadable PDF invoices  
+- **Responsive UI** – Built with Bootstrap for mobile-friendly design  
 
 ---
 
-🎓 [Student Enrollment System]https://github.com/roopabodigalla/Ecommerce
+### 🎓 [Student Enrollment System](https://github.com/roopabodigalla/Ecommerce)  
 > A Django-based web application to manage student registrations and course enrollments.
 
-User authentication (login/register/logout)
-Student profile creation and management (CRUD operations)
-Course listing and enrollment functionality
-Search and filter students by name or course
-Simple and clean UI using Django templates
+- **User Authentication** – Login, register, and logout functionality  
+- **Student Management** – Create, update, delete, and view student profiles  
+- **Course Enrollment** – List available courses and enroll students  
+- **Search & Filter** – Find students by name or course  
+- **Clean UI** – Simple design using Django templates  
+
+---
 
 ## 📈 GitHub Stats
 
@@ -45,8 +47,8 @@ Simple and clean UI using Django templates
 
 ## 📫 Connect with Me
 
-- 📧 Email: roopab1819@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/roopa-bodigalla-044771232/)
+- 📧 Email: roopab1819@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/roopa-bodigalla-044771232/)  
 
 ---
 
